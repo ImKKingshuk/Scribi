@@ -2,7 +2,7 @@
 
 > A developer-first WYSIWYG editor for React. Feature-rich, customizable, and framework-agnostic.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
 ## Why Scribi?

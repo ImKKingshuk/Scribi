@@ -40,7 +40,8 @@
     "test": "rstest",
     "typecheck": "tsc --noEmit",
     "lint": "biome check --write",
-    "check-types": "tsc --noEmit"
+    "check-types": "tsc --noEmit",
+    "clean": "rm -rf dist node_modules"
   },
   "dependencies": {
     "@tiptap/core": "^2.11.2",
