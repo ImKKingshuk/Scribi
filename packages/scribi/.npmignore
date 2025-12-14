@@ -1,0 +1,19 @@
+# Source files
+src/
+tests/
+examples/
+
+# Config files
+tsconfig.json
+rslib.config.ts
+rstest.config.ts
+rstest.setup.ts
+biome.json
+
+# Development files
+.gitignore
+*.log
+node_modules/
+
+# Documentation (keep only README, LICENSE, CHANGELOG)
+CONTRIBUTING.md
